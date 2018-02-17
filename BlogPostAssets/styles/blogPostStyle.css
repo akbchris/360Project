@@ -168,7 +168,7 @@ footer {
 	/* Links in header */
 	color: rgba(146,146,146,1.00);
 	text-decoration: none;
-	background-color: antiquewhite;
+	background-color: antiquewhite
 }
 
 /* Tablet view */
@@ -237,7 +237,7 @@ footer {
 }
 
 /* Mobile view */
-@media screen and (max-width : 501px ){
+@media screen and (max-width : 501px ) {
 #mainwrapper header #logo {
 	/* Company Logo text in header */
 	width: 96%;
@@ -286,4 +286,13 @@ footer {
 	/* Each foter article */
 	width: 96%;
 }
+}
+.sugg {
+	width: auto;
+	align-content: center;
+	font-family: montserrat, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	color: lightgray;
+	font-size: 12px;
 }
